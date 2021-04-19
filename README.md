@@ -23,7 +23,7 @@ Implemented everything that was possible under 2 hours.
 - Tailwind.css powered
 - Responsive
 
-##Misc
+## Misc
 
 - Used craco 
 
